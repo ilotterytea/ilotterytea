@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - Изучаю язык программирования Python и чучуть знаю "Язык разметки гипертекста"
 - Известный факт: человек состоит 98% из кукурузы!!! Не верите?? А вы проверьте! -->
 
-![lol](https://sun9-71.userapi.com/lcPvj98VSnr-z0FgMSypTpoS0DVakRnZ9RuMNw/wQ5j2aensSc.jpg)
+![lol](https://cdn.betterttv.net/emote/5e37903f61ff6b51e652837c/3x)
