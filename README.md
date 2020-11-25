@@ -10,12 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...https://cdn.frankerfacez.com/emoticon/514703/2
--->
-<!--## Ку ![peepoHey by PhysiCle](https://cdn.betterttv.net/emote/5f69d8fbb8762470a45abe51/1x)
-- Вы на странице популярной многопользовательной игры жанра шутер от 3 лица "DOKA 2"
-- Знаю Русский язык и со мной бог ![peepoBless by Laden](https://cdn.betterttv.net/emote/5f66bfc8d7160803d895c5c9/1x)
-- Изучаю язык программирования Python и чучуть знаю "Язык разметки гипертекста"
-- Известный факт: человек состоит 98% из кукурузы!!! Не верите?? А вы проверьте! -->
+- ⚡ Fun fact: ...https://cdn.frankerfacez.com/emoticon/514703/2 -->
 
-it's me irl :point_right: ![FunnyCatTastingTHEWATER by Enigma_5G_RMM (BetterTTV)](https://cdn.betterttv.net/emote/5f3c0a0a8abf185d76c72002/1x) :joy: :joy: :joy:
+![](https://i.redd.it/rtoovzzf2mb51.png)
