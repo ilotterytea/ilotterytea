@@ -1,17 +1,11 @@
-<!--
-**ilotterytea/ilotterytea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...https://cdn.frankerfacez.com/emoticon/514703/2 -->
-
-### ![](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/4000/68b256cdce39f86404df0fb99c241b31028d8bb9.png) ![](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/4000/3767c83de6a993221e87ab75f9c120e5e11151bb.png)
-
-## [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ilteapls&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilteapls&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h1>
+    <img src="https://cdn.discordapp.com/attachments/741669016543690762/804246400526450708/widepeepohappy.gif" height="112"/>
+    <br>
+    My name is <a href="https://en.wikipedia.org/wiki/I_(pronoun)">i</a><a href="https://www.dictionary.com/browse/lottery">lottery</a><a href="https://www.dictionary.com/browse/tea">tea</a>.
+  </h1>
+   <div>
+    <img height=165 src="https://github-readme-stats.vercel.app/api?username=ilotterytea&count_private=true&show_icons=true&theme=dark">
+    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilotterytea&layout=compact&theme=dark">
+  </div>
+</div>
